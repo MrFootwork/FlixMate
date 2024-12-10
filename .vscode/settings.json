@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "prettier.quoteProps": "consistent",
+  "prettier.resolveGlobalModules": false,
+  "prettier.htmlWhitespaceSensitivity": "css",
+  "prettier.arrowParens": "avoid",
+  "prettier.semi": false
+}
