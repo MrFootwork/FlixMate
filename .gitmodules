@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/MrFootwork/FlixMate-Server
+[submodule "client"]
+	path = client
+	url = https://github.com/MrFootwork/FlixMate-Client
+[submodule "extension"]
+	path = extension
+	url = https://github.com/MrFootwork/FlixMate-Extension
